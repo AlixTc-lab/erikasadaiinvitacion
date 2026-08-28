@@ -928,7 +928,7 @@ body {
 
     margin-top: 10px;
 
-    font-size: 27px;
+    font-size: 29px;
 
     font-weight: 500;
 
@@ -1421,7 +1421,7 @@ body {
 
     color: var(--texto);
 
-    font-size: 24px;
+    font-size: 28px;
 
     background: rgba(255, 255, 255, .72);
 
@@ -1556,13 +1556,13 @@ body {
 
     color: var(--texto);
 
-    font-size: 24px;
+    font-size: 28px;
 
     background: rgba(255, 255, 255, .72);
 
     backdrop-filter: blur(8px);
 
-    border-radius: 25px;
+    border-radius: 28px;
 }
 
 
@@ -1687,7 +1687,7 @@ body {
 
     font-family: "Great Vibes", cursive;
 
-    font-size: 90px;
+    font-size: 100px;
 
     font-weight: 400;
 
@@ -1707,7 +1707,7 @@ body {
 
     padding: 20px 30px;
 
-    font-size: 24px;
+    font-size: 28px;
 
     line-height: 2;
 
