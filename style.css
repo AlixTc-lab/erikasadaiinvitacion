@@ -1788,6 +1788,7 @@ video {
 
 /* ======================================================
    20. RESPONSIVE — CELULAR
+   📱 VERSIÓN CON TEXTO MÁS GRANDE
    ====================================================== */
 
 @media (max-width: 600px) {
@@ -1822,25 +1823,25 @@ video {
     }
 
     .hero h1 {
-        font-size: 70px;
+        font-size: 76px;
         line-height: 1;
     }
 
     .hero p {
-        font-size: 21px;
+        font-size: 23px;
         line-height: 1.5;
     }
 
     .detalle {
-        font-size: 12px;
+        font-size: 14px;
         letter-spacing: 2px;
-        padding: 8px 14px;
-        margin-bottom: 18px;
+        padding: 9px 16px;
+        margin-bottom: 20px;
     }
 
     .linea {
-        width: 110px;
-        margin: 20px auto;
+        width: 115px;
+        margin: 22px auto;
     }
 
 
@@ -1849,19 +1850,19 @@ video {
        ========================= */
 
     .contador h2 {
-        font-size: 40px;
+        font-size: 43px;
         line-height: 1.1;
     }
 
     .subtitulo {
-        font-size: 17px;
+        font-size: 19px;
         letter-spacing: 3px;
     }
 
     .texto-contador {
-        font-size: 18px;
-        line-height: 1.7;
-        margin-bottom: 40px;
+        font-size: 20px;
+        line-height: 1.75;
+        margin-bottom: 42px;
     }
 
     .countdown {
@@ -1869,18 +1870,18 @@ video {
     }
 
     .tiempo {
-        padding: 22px 10px;
+        padding: 24px 10px;
         border-radius: 22px;
     }
 
     .tiempo span {
-        font-size: 42px;
+        font-size: 45px;
     }
 
     .tiempo small {
-        font-size: 11px;
+        font-size: 12px;
         letter-spacing: 1.5px;
-        margin-top: 10px;
+        margin-top: 11px;
     }
 
 
@@ -1889,22 +1890,22 @@ video {
        ========================= */
 
     .titulo-seccion {
-        margin-bottom: 40px;
+        margin-bottom: 42px;
     }
 
     .titulo-seccion span {
-        font-size: 16px;
+        font-size: 17px;
         letter-spacing: 3px;
     }
 
     .titulo-seccion h2 {
-        font-size: 42px;
+        font-size: 45px;
         line-height: 1.1;
     }
 
     .titulo-seccion p {
-        font-size: 18px;
-        line-height: 1.7;
+        font-size: 20px;
+        line-height: 1.75;
     }
 
 
@@ -1941,22 +1942,23 @@ video {
     }
 
     .info-lugar {
-        padding: 30px 20px 35px;
+        padding: 32px 20px 38px;
     }
 
     .info-lugar h3 {
-        font-size: 34px;
+        font-size: 36px;
         line-height: 1.1;
     }
 
     .info-lugar p {
-        font-size: 18px;
-        line-height: 1.7;
+        font-size: 20px;
+        line-height: 1.75;
+        margin-bottom: 25px;
     }
 
     .btn {
-        font-size: 18px;
-        padding: 13px 28px;
+        font-size: 19px;
+        padding: 14px 30px;
     }
 
 
@@ -1965,30 +1967,30 @@ video {
        ========================= */
 
     .familia-card {
-        padding: 35px 20px;
+        padding: 38px 20px;
         border-radius: 30px;
     }
 
     .familia-card h3 {
-        font-size: 36px;
+        font-size: 39px;
         line-height: 1.1;
         padding: 8px 15px;
     }
 
     .persona span {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .persona h4 {
-        font-size: 24px;
+        font-size: 26px;
         line-height: 1.2;
-        padding: 6px 15px;
+        padding: 7px 15px;
     }
 
     .persona p {
-        font-size: 15px;
+        font-size: 16px;
         letter-spacing: 1.5px;
-        line-height: 1.5;
+        line-height: 1.6;
     }
 
 
@@ -1997,61 +1999,61 @@ video {
        ========================= */
 
     .vestimenta-card {
-        padding: 45px 20px;
+        padding: 48px 20px;
         border-radius: 30px;
     }
 
     .vestimenta-card .subtitulo {
-        font-size: 17px;
+        font-size: 18px;
         letter-spacing: 3px;
     }
 
     .vestimenta-card h2 {
-        font-size: 44px;
+        font-size: 47px;
         line-height: 1.1;
         padding: 10px;
     }
 
     .descripcion-vestimenta {
-        padding: 18px 15px;
-        font-size: 18px;
-        line-height: 1.7;
+        padding: 20px 15px;
+        font-size: 20px;
+        line-height: 1.75;
     }
 
     .vestimenta-opciones {
         grid-template-columns: 1fr;
-        gap: 20px;
+        gap: 22px;
     }
 
     .vestimenta-item {
-        padding: 25px 18px;
+        padding: 28px 18px;
     }
 
     .vestimenta-item i {
-        font-size: 40px;
+        font-size: 42px;
     }
 
     .vestimenta-item h3 {
-        font-size: 34px;
+        font-size: 36px;
         line-height: 1.1;
     }
 
     .vestimenta-item p {
-        font-size: 18px;
-        line-height: 1.7;
+        font-size: 20px;
+        line-height: 1.75;
     }
 
     .decoracion-vestimenta {
-        font-size: 21px;
+        font-size: 22px;
         letter-spacing: 8px;
     }
 
     .colores-evitar h4 {
-        font-size: 16px;
+        font-size: 17px;
     }
 
     .color-item small {
-        font-size: 12px;
+        font-size: 13px;
     }
 
 
@@ -2060,24 +2062,24 @@ video {
        ========================= */
 
     .regalos-card {
-        padding: 45px 20px;
+        padding: 48px 20px;
         border-radius: 30px;
     }
 
     .regalos-card h2 {
-        font-size: 44px;
+        font-size: 47px;
         line-height: 1.1;
         padding: 10px;
     }
 
     .regalos-card p {
-        font-size: 18px;
-        line-height: 1.7;
-        padding: 18px 15px;
+        font-size: 20px;
+        line-height: 1.75;
+        padding: 20px 15px;
     }
 
     .decoracion-regalo {
-        font-size: 21px;
+        font-size: 22px;
         letter-spacing: 8px;
     }
 
@@ -2087,24 +2089,24 @@ video {
        ========================= */
 
     .acciones-evento {
-        margin: 40px auto;
+        margin: 42px auto;
     }
 
     .accion-card {
-        padding: 45px 20px;
+        padding: 48px 20px;
         border-radius: 30px;
     }
 
     .accion-card h3 {
-        font-size: 32px;
+        font-size: 35px;
         line-height: 1.1;
         padding: 8px 10px;
     }
 
     .accion-card p {
-        font-size: 18px;
-        line-height: 1.7;
-        padding: 18px 15px;
+        font-size: 20px;
+        line-height: 1.75;
+        padding: 20px 15px;
     }
 
 
@@ -2113,43 +2115,43 @@ video {
        ========================= */
 
     .cierre-card {
-        padding: 45px 20px;
+        padding: 48px 20px;
         border-radius: 30px;
     }
 
     .cierre-card span {
-        font-size: 17px;
-        line-height: 1.7;
+        font-size: 18px;
+        line-height: 1.75;
         letter-spacing: 2px;
         padding: 15px 10px;
     }
 
     .cierre-card h2 {
-        font-size: 46px;
+        font-size: 49px;
         line-height: 1.1;
         padding: 8px 10px;
     }
 
     .cierre-card h3 {
-        font-size: 62px;
+        font-size: 66px;
         line-height: 1.1;
         padding: 8px 10px;
     }
 
     .cierre-card p {
-        font-size: 18px;
+        font-size: 20px;
         line-height: 1.8;
-        padding: 18px 15px;
+        padding: 20px 15px;
     }
 
     .fecha-final {
-        font-size: 15px;
-        padding: 13px 22px;
+        font-size: 16px;
+        padding: 14px 23px;
         letter-spacing: 2px;
     }
 
     .decoracion-final {
-        font-size: 22px;
+        font-size: 23px;
         letter-spacing: 8px;
     }
 
@@ -2173,8 +2175,8 @@ video {
     }
 
     .luxury-footer p {
-        font-size: 14px;
-        line-height: 1.5;
+        font-size: 15px;
+        line-height: 1.6;
     }
 
 
@@ -2197,15 +2199,16 @@ video {
        ========================= */
 
     #music-btn {
-        width: 50px;
-        height: 50px;
+        width: 52px;
+        height: 52px;
 
         right: 18px;
         bottom: 18px;
 
-        font-size: 21px;
+        font-size: 22px;
     }
 }
+
 
 
 /* ======================================================
